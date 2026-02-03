@@ -412,17 +412,23 @@ _Die Flüchtlingsfamilie ist eingeschüchtert und stottert etwas von Verfolgung,
 
 **Kehl:** Schawalder, was haben Sie getan! Fluchthilfe, Landesverrat, und wo ist die Besatzung vom Heldsberg?
 
-**Schawalder:** Ich habe die Leute gerettet, es waren noch viele mehr. Wir haben die Puppen aufgestellt um Eindringlinge zu erschrecken. Die Besatzung des Heldsberg ist geflohen, sie hatten Angst vor den Folgen. Aber jemand musste ja auf die Geflüchteten schauen.
+**Schawalder (steht aufrecht, klarer Blick):** Bei ihren Familien, wo sie hingehören. Wir haben Puppen aufgestellt um Eindringlinge zu täuschen. Danach hat die Besatzung den Grenzübertritt der Flüchtlinge geschützt. Sobald die Flüchtlinge in Sicherheit waren, habe ich die Truppe zu ihren Familien entlassen. Die Franzosen befreien in wenigen Tagen das Vorarlberg, da brauchen wir die Soldaten nicht mehr hier.
 
-**Kehl:** Sie haben 125 Soldaten zu Verschwörern gemacht!
+**Kehl (bestimmt):** Das haben nicht Sie zu entscheiden! Sie haben 125 Soldaten zu Verschwörern gemacht!
 
-**Schawalder:** Nein, ich habe über 125 Menschen gerettet.
+**Schawalder:** Nein, ich habe über 125 Menschen und die Flüchtlinge gerettet. Die Soldaten haben ihren Eid gehalten und ihre Pflicht getan. Der Heldsberg ist gesichert, ohne sinnloses Blutvergiessen.
+
+**Kehl (mit zusammengebissenen Zähnen):** Sie missachten die Kette des Kommandos.
+
+**Schawalder:** Wir haben die Waffen gesichert, die Munition unzugänglich gemacht, die Verwundeten versorgt.
+
+**Schawalder (theatralisch, hochdeutsch):** Wenn die Ordnung fällt, bleibt nur das Gewissen.
 
 
 ### Epilog
 
 _Kehl wendet sich zu den Gästen_
 
-**Kehl:** Was hätten Sie gemacht? Die Aktion vom Gefreiten Schawalder ist eine Straftat, auf der anderen Seite rettet er den Geflüchteten das Leben. Am 29. April 1945, also in rund zwei Wochen, wann dies gespielt hat. Betreten französische und marokkanische Truppen bei Begrenz das Vorarlberg. Am 6. Mai 1945 erreichten sie den Arlberg. Und am 8. Mai kapitulierte die deutsche Wehrmacht. Diese Geschichte war fiktiv, so etwas hat sich am Heldsberg nie abgespielt. Sie steht stellvertretend für die vielen Leute, die in diesen Tagen sich menschlich gezeigt haben, und trotz der eigenen Not, Geflüchteten halfen, obwohl dies widerrechtlich war.
+**Kehl:** Was hätten Sie gemacht? Die Aktion vom Gefreiten Schawalder ist eine Straftat, auf der anderen Seite rettet er den Geflüchteten das Leben. Am 29. April 1945, also in rund zwei Wochen, wann dies gespielt hat, betreten französische und marokkanische Truppen bei Bregenz das Vorarlberg. Am 6. Mai 1945 erreichten sie den Arlberg und am 8. Mai kapitulierte die deutsche Wehrmacht. Diese Geschichte war fiktiv, so etwas hat sich am Heldsberg nie abgespielt. Sie steht stellvertretend für die vielen Leute, die in diesen Tagen sich menschlich gezeigt haben, und trotz der eigenen Not, Geflüchteten halfen, obwohl dies widerrechtlich war.
 
 _Vorstellung der Schauspieler und Rückmarsch zum Eingang, wo es eine kleinen Imbiss gibt._
