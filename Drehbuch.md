@@ -32,7 +32,7 @@ Schauspiel bei Nacht im Festungsmuseum Heldsberg
 
 **Patrouille:** Strasse zum Festungseingang (ausserhalb Sichtbereich)
 
-**Gefreiter Schawalder:** Festungseingang
+**Gefreiter Schawalder:** Festungseingang (in der Heldsberg-Jacke, Uniform aus dem 2. Weltkrieg hat er mit dabei)
 
 **Flüchtlingsfamilie:** Ausserhalb Sichtbereich
 
@@ -80,11 +80,15 @@ Begrüssung
 
 ### Prolog
 
-_Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Er begrüsst die Gäste und gibt folgende Hinweise ab: Bitte vorsichtig sein, die Festung ist absolut dunkel. Es ist genügend Zeit für alles vorhanden. Es wird nie jemand erschreckt. Falls die Batterie einer Taschenlampe nachlässt, bitte eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen dürfen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, jederzeit jemand von der Patrouille ansprechen._
+_ Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des vorlesen des Prologs zieht er sich Schritt für Schritt zu einem Soldaten im 2. Weltkrieg um._
 
-**Sprecher:** Die Schweiz befindet sich als kleine, neutrale Insel mitten in dem von den Nationalsozialisten kontrollierten Europa. Das Kommando der Grenzbrigade 8 hat seit drei Tagen kein Kontakt mehr mit dem Artilleriewerk Heldsberg. Es wird eine Gruppe von drei Mann losgeschickt um zu untersuchen, was da los ist. Sie treffen im am Mittwoch, 14. März 1945 um 17:30 Uhr am Heldsberg ein. Die Französischen und Marokkanischen Truppen stossen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
+**Sprecher:** Willkommen zur Nachtpatrouille 1945 am Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen dürfen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, jederzeit jemand von der Patrouille ansprechen. 
 
-_Der Sprecher liest den Gästen den Prolog vor. Danach entfernt sich der Sprecher unbemerkt und zieht sich zum Gefreiten Schawalder um._
+**Sprecher (ernste Stimme):** Wir machen jetzt zusammen eine Zeitreise. Eine Zeitreise zurück in deine düstere Zeit. Eine Zeitreise zurück um 81 Jahre. Heute ist Mittwoch, der 14. März 1945. Die Schweiz befindet sich als kleine, neutrale Insel mitten eines vom Krieg gezeichneten und ehemals von den Nationalsozialisten kontrollierten Europa. Die Bevölkerung hat Angst, die Armee ist angespannt. Seit Monaten rücken die Alliierten in Richtung Berlin vor. Frankreich durchquert und die Truppen stehen am Rhein, bei Köln, Bonn und Remagen. Die Brücke von Remagen ist von den Alliierten eingenommen und seit einer Woche überqueren alliierte Regimenter über diese Brücke den Rhein. Sie wissen nicht, dass die durch Sprengversuche und Artilleriebeschuss beschädigte Brücke in drei Tagen einstürzen wird und 32 amerikanische Pioniere getötet und 63 verletzt werden.
+
+**Sprecher (nach einer kurzen Pause):** Seit zwei Tagen herrscht beim Kommando der der Grenzbrigade 8 Funkstille mit dem Artilleriewerk Heldsberg. Keiner weiss, ob es nur ein technisches Problem ist oder ob mehr dahintersteckt. Es wird eine Gruppe von drei Männern losgeschickt um zu untersuchen, was da los ist. Sie werden etwa um 17:40 Uhr hier eintreffen. Das ist schon bald. Gleichzeitig stossen jenseits des Rheins französische und marokkanische Truppen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
+
+_Der Sprecher liest den Gästen den Prolog vor. Danach verschwindet der Sprecher wortlos in der Festung._
 
 
 
