@@ -17,11 +17,11 @@ Schauspiel bei Nacht im Festungsmuseum Heldsberg
 
 ### Rollen
 
-**Korporal Kehl:** Pflichtbewusster und militärisch genauer Gruppenführer, der loyal die Patrouille leitet und seine Ängstlichkeit hinter einer Fassade versteckt.
+**Wachtmeister Kehl:** Pflichtbewusster und militärisch genauer Gruppenführer, der loyal die Patrouille leitet und seine Ängstlichkeit hinter einer Fassade versteckt.
 
-**Soldat Benz:** Selbstbewusster Soldat, dem nicht wohl ist bei der Sache und am liebsten wieder nach Hause gehen würde.
+**Gefreiter Benz:** Selbstbewusster Soldat, dem nicht wohl ist bei der Sache und am liebsten wieder nach Hause gehen würde.
 
-**Gefreiter Müller:** Stiller, zuverlässiger Soldat, der seine Pflicht tut und schon einiges erlebt hat.
+**Soldat Müller:** Stiller, zuverlässiger Soldat, der seine Pflicht tut und schon einiges erlebt hat.
 
 **Gefreiter Schawalder:** Ängstlicher Soldat der mit der Situation überfordert ist.
 
@@ -229,7 +229,7 @@ _Müller schaut, dass die Gruppe nicht zur Türe sieht. Sobald alle um die Ecke 
 
 _Falls kein Gast das Tagebuch bemerkt, findet es Benz._
 
-**Benz:** Korporal, da liegt ein Tagebuch.
+**Benz:** Wachtmeister, da liegt ein Tagebuch.
 
 **Kehl:** Vorlesen!
 
@@ -344,7 +344,7 @@ _Die Gruppe geht zum MG1._
 
 _Beim MG1 wird der geöffnete Notausgang bemerkt. Falls dies kein Gast bemerkt, dann meldet sich Benz._
 
-**Benz:** Korporal, schauen Sie mal, da gibt es einen Weg nach draussen.
+**Benz:** Wachtmeister, schauen Sie mal, da gibt es einen Weg nach draussen.
 
 **Kehl:** Vielleicht finden wir da draussen die Truppe. Schawalder, Sie zuerst, los! Die Inspektion vom Brigadekommandanten kommt näher und wir haben immer noch keine Antworten. Schawalder? Wo ist Schawalder?
 
