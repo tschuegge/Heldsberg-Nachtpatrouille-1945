@@ -47,19 +47,15 @@ Schauspiel bei Nacht im Festungsmuseum Heldsberg
 
 **Türe neben Eingangsstollenverteidigung:** Ist halbgeöffnet
 
-**Türe zur Telefonzentrale:** Ist geschlossen
+**Telefonzentrale:** Ist geschlossen, Kette entfernt, Zettel mit dem Hinweis auf den tödlichen Unfall von Nachrichtensoldat Meier im Speisesaal deponiert
 
-**Notausgang MG1:** Ist geöffnet
+**MG1:** Notausgang ist geöffnet
 
-**Leiter zu Notausgang MG2/3:** Ist abgesperrt
+**MG2/3:** Leitern zu Notausgang und zum MG gesperrt
 
-**Tagebuch:** Beinhaltet belangloser Text und ein paar chiffrierte Nachrichten mit dem Hinweis, dass Schawalder den Code weiss. Ausserdem befindet sich auf der Seite eine skizzierte NEMA. Die chiffrierte Nachricht lautet «FLUCHT IN DEN SUED SOFORT», chiffriert mit dem Schlüssel «HELDSBERGX»  
-→ Wird auf der Leiter beim Leichenkeller deponiert
+**Leichenkeller :** Grab mit Steinen geschlossen, daneben liegt ein Kleiderstapel mit einem Tagebuch drauf. Das Tagebuch beinhaltet belangloser Text und ein paar chiffrierte Nachrichten mit dem Hinweis, dass Schawalder den Code weiss. Ausserdem befindet sich auf der Seite eine skizzierte NEMA. Die chiffrierte Nachricht lautet «FLUCHT IN DEN SUED», chiffriert mit dem Schlüssel «HELDSBERGX» (IIBZF NFAMO WRPBF)
 
-**Zettel:** Beinhaltet Hinweis auf tödlichen Unfall von Nachrichtensoldat Meier im Speisesaal  
-→ Wird in der Telefonzentrale deponiert
-
-**NEMA:** Wird im Speisesaal aufgebaut, kein voreingestellter Tagesschlüssel, Bleistift und Papier liegen bei der NEMA bereit.
+**Speisesaal:** NEMA wird im Speisesaal aufgebaut, kein voreingestellter Tagesschlüssel, Bleistift und Papier liegen bei der NEMA bereit.
 
 **Taschenlampen:** LED-Laternen (Feuerhand) geladen an die drei Schauspieler der Patrouille verteilt, die Militärtaschenlampen mit Batterien, 5-6 Reservebatterien mitnehmen. Müller braucht eine zweite Taschenlampe (kann auch eine zivile Lampe oder das Handy sein).
 
@@ -79,14 +75,15 @@ Begrüssung
 
 
 ### Prolog
+_Spielzeit: 0min, Dauer: 5min_
 
-_ Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des vorlesen des Prologs zieht er sich Schritt für Schritt zu einem Soldaten im 2. Weltkrieg um._
+_Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des vorlesen des Prologs zieht er sich Schritt für Schritt zu einem Soldaten im 2. Weltkrieg um._
 
-**Sprecher:** Willkommen zur Nachtpatrouille 1945 am Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen dürfen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, jederzeit jemand von der Patrouille ansprechen. 
+**Sprecher:** Willkommen zur Nachtpatrouille 1945 in der Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen dürfen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, jederzeit jemand von der Patrouille ansprechen. 
 
-**Sprecher (ernste Stimme):** Wir machen jetzt zusammen eine Zeitreise. Eine Zeitreise zurück in keine düstere Zeit. Eine Zeitreise zurück um 81 Jahre. Heute ist Mittwoch, der 14. März 1945. Die Schweiz befindet sich als kleine, neutrale Insel mitten eines vom Krieg gezeichneten und ehemals von den Nationalsozialisten kontrollierten Europa. Die Bevölkerung hat Angst, die Armee ist angespannt. Seit Monaten rücken die Alliierten in Richtung Berlin vor. Frankreich durchquert und die Truppen stehen am Rhein, bei Köln, Bonn und Remagen. Die Brücke von Remagen ist von den Alliierten eingenommen und seit einer Woche überqueren alliierte Regimenter über diese Brücke den Rhein. Sie wissen nicht, dass die durch Sprengversuche und Artilleriebeschuss beschädigte Brücke in drei Tagen einstürzen wird und 32 amerikanische Pioniere getötet und 63 verletzt werden.
+**Sprecher (ernste Stimme):** Wir machen jetzt zusammen eine Zeitreise. Eine Zeitreise zurück in eine düstere Zeit. Eine Zeitreise zurück um 81 Jahre. Heute ist Mittwoch, der 14. März 1945. Die Schweiz befindet sich als kleine, neutrale Insel mitten eines vom Krieg gezeichneten und ehemals von den Nationalsozialisten kontrollierten Europa. Die Bevölkerung hat Angst, die Armee ist angespannt. Seit Monaten rücken die Alliierten in Richtung Berlin vor. Frankreich ist durchquert und die Truppen stehen am Rhein, bei Köln, Bonn und Remagen. Die Brücke von Remagen ist von den Alliierten eingenommen und seit einer Woche überqueren alliierte Regimente über diese Brücke den Rhein. Sie wissen nicht, dass die durch Sprengversuche und Artilleriebeschuss beschädigte Brücke in drei Tagen einstürzen wird und 32 amerikanische Pioniere getötet und 63 verletzt werden.
 
-**Sprecher (nach einer kurzen Pause):** Seit zwei Tagen herrscht beim Kommando der der Grenzbrigade 8 Funkstille mit dem Artilleriewerk Heldsberg. Keiner weiss, ob es nur ein technisches Problem ist oder ob mehr dahintersteckt. Es wird eine Gruppe von drei Männern losgeschickt um zu untersuchen, was da los ist. Sie werden etwa um 17:40 Uhr hier eintreffen. Das ist schon bald. Gleichzeitig stossen jenseits des Rheins französische und marokkanische Truppen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
+**Sprecher (nach einer kurzen Pause):** Seit zwei Tagen herrscht beim Kommando der Grenzbrigade 8 Funkstille mit dem Artilleriewerk Heldsberg. Keiner weiss, ob es nur ein technisches Problem ist oder ob mehr dahintersteckt. Es wird eine Gruppe von drei Männern losgeschickt um zu untersuchen, was da los ist. Sie werden etwa um 17:40 Uhr hier eintreffen. Das ist schon bald. Gleichzeitig stossen jenseits des Rheins französische und marokkanische Truppen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
 
 _Der Sprecher liest den Gästen den Prolog vor. Danach verschwindet der Sprecher wortlos in der Festung._
 
@@ -97,8 +94,9 @@ Szene 1: Eintreffen und Betreten des Werks
 
 
 ### Eintreffen am Werk
+_Spielzeit: 5min, Dauer: 10min_
 
-_Kehl, Benz und Müller marschieren vom Kanonenunterstand zum Werk und bemerken die verlorene Truppe (Gäste) vor dem Eingang._
+_Nach Handzeichen eines Helfers marschieren Kehl, Benz und Müller versetzt vom Kanonenunterstand zum Werk (ca. ab der Kurve sind sie hörbar) und bemerken die verlorene Truppe (Gäste) vor dem Eingang._
 
 **Kehl:** Was ist hier los? Benz, Müller, in Deckung!
 
@@ -116,7 +114,7 @@ _Die Soldaten gehen zu den Gästen und sprechen jemanden an._
 
 **Benz:** Kehl, komm wir gehen wieder.
 
-**Kehl:** Diese Soldaten hier, wissen ja gar nichts mehr. Wir müssen dringend herausfinden, warum wir seit drei Tagen nichts mehr vom Heldsberg gehört haben. Die Franzosen kommen und eines unserer wichtigsten Werke reagiert nicht. Zudem hat der Brigadekommandant eine Inspektion heute um 20 Uhr angekündigt. Ihr begleitet uns und helft uns beim Herausfinden, was hier passiert ist.
+**Kehl:** Diese Soldaten hier, wissen ja gar nichts mehr. Wir müssen dringend herausfinden, warum wir seit drei Tagen nichts mehr vom Heldsberg gehört haben. Die Franzosen kommen und eines unserer wichtigsten Werke reagiert nicht. Ihr begleitet uns und helft uns beim Herausfinden, was hier passiert ist.
 
 
 ### Betreten des Werks
@@ -136,7 +134,7 @@ _Niemand ist im Werk, sie gehen weiter und treffen auf die halbgeöffnete Stahlt
 
 _Vorsichtig gehen sie bis zum Maschinenraum weiter._
 
-**Kehl:** Gefreiter Müller!
+**Kehl:** Soldat Müller!
 
 **Müller:** Hier!
 
@@ -165,6 +163,7 @@ Szene 2: Kaserne
 
 
 ### Schlafsaal
+_Spielzeit: 15min, Dauer: 5min_
 
 _Alle Räume in der Kaserne werden durchsucht, begonnen wird im oberen Stock im Schlafsaal._
 
@@ -178,10 +177,11 @@ _Alle Räume in der Kaserne werden durchsucht, begonnen wird im oberen Stock im 
 
 
 ### Küche, Spital, oberer Stock
+_Spielzeit: 20min, Dauer: 10min_
 
 _Weiter werden Küche, der Speisesaal wird ausgelassen, Spital und oberer Stock durchsucht. Die Puppen fallen auf._
 
-_Beim Betreten des oberen Stocks läuft die Patrouille zügig zu den Offiziersschlafräumen. Dort fordert Kehl die Gäste auf, die Räume zu durchsuchen._
+_Beim Betreten des oberen Stocks läuft die Patrouille zügig zu den Offiziersschlafräumen, ganz hinten. Dort fordert Kehl die Gäste auf, die Räume zu durchsuchen._
 
 **Kehl:** Machen Sie sich bitte nützlich und suchen nach Hinweisen.
 
@@ -193,12 +193,15 @@ _Zettel wird vorgelesen von einem Gast oder von Benz, der Hinweis verweist auf d
 
 
 ### Speisesaal
+_Spielzeit: 30min, Dauer: 5min_
 
 _Im Speisesaal fällt die NEMA auf._
 
 **Benz:** Da ist eine Schreibmaschine?! Aber er scheint nicht hier zu sein. Ist er wirklich gestorben?
 
-**Kehl:** Müller, was hat jeder anständige Soldat zu führen?
+**Kehl:** Das ist doch keine normale Schreibmaschine, das ist eine NEMA, eine Chiffriermaschine um geheime Nachrichten zu verschlüsseln. Aber warum ist sie hier? Und wo ist Nachrichtensoldat Meier?
+
+**Kehl (Idee nach kurzer Pause):** Müller, was hat jeder anständige Soldat zu führen?
 
 **Müller:** Ein Tagebuch…?
 
@@ -219,13 +222,15 @@ Szene 3: Leichenkeller
 
 
 ### Weg zum Leichenkeller
+_Spielzeit: 35min, Dauer: 5min_
 
 _Alle gehen zum Leichenkeller. Die Türe zum unteren Stock ist weiterhin geschlossen._
 
-_Müller schaut, dass die Gruppe nicht zur Türe sieht. Sobald alle um die Ecke beim Leichenkeller sind, geht Gefreiter Schawalder die Treppe runter zum MG6 und schaltet vorher das Licht an der Treppe ein. Kehl und Benz geht in den Leichenkeller und bemerkt das Tagebuch auf der Leiter nicht._
+_Müller schaut, dass die Gruppe nicht zur Türe sieht. Sobald alle um die Ecke beim Leichenkeller sind, geht Gefreiter Schawalder die Treppe runter zum MG6 und schaltet vorher das Licht an der Treppe ein. Kehl und Benz schicken einen Teil der Gäste in den Leichenkeller, damit ein Gast das Tagebuch findet._
 
 
 ### Leichenkeller
+_Spielzeit: 40min, Dauer: 10min_
 
 _Falls kein Gast das Tagebuch bemerkt, findet es Benz._
 
@@ -246,11 +251,13 @@ Szene 4: Unterer Stock
 
 
 ### Treppe
+_Spielzeit: 50min, Dauer: 10min_
 
 _Alle steigen die beleuchtete Treppe hinunter. Das Licht beleuchtet den Stollen bis zur Verzweigung zwischen Schacht zum MG5 und dem Stollen zum MG6._
 
 
 ### Unterer Stock
+_Spielzeit: 1h, Dauer: 5min_
 
 **Benz:** Wo gehen wir lang?
 
@@ -274,6 +281,7 @@ _Alle gehen zum MG6_
 
 
 ### MG6
+_Spielzeit: 1h 5min, Dauer: 20min_
 
 _Schawalder sitzt verängstigt mit einer Taschenlampe da._
 
@@ -293,7 +301,7 @@ _Schawalder sitzt verängstigt mit einer Taschenlampe da._
 
 **Kehl:** Was ist denn hier passiert? Wo sind alle?
 
-**Schawalder** beginnt zu zittern und bringt kein Wort heraus.
+_Schawalder beginnt zu stottern und bringt kein Wort heraus._
 
 **Kehl:** Kommen Sie mal mit, wir gehen zurück in den Speisesaal, dort schauen wir, ob wir etwas zu trinken finden.
 
@@ -306,10 +314,13 @@ Szene 5: Speisesaal
 
 
 ### Ankunft im Speisesaal
+_Spielzeit: 1h 25min, Dauer: 15min_
+
 _Es wird auf direktem Weg in den Speisesaal gegangen. Das Licht auf der Treppe wird brennen gelassen. Im Speisesaal angekommen werden die Gäste an einen Tisch gesetzt und ein Getränk nach Wahl offeriert. Sobald alle ein Getränk haben, werden die gefundenen Gegenstände werden auf den Tisch gelegt._
 
 
 ### Lösen der Rätsels
+_Spielzeit: 1h 40min, Dauer: 10min_
 
 **Kehl:** Wir müssen herausfinden, was hier passiert ist. Bitte helfen Sie uns alle mit, das Rätsel zu lösen.
 
@@ -317,12 +328,13 @@ _Nach einigem Hin- und Her merkt eventuell ein Gast, dass die Nachricht mit der 
 
 
 ### Dechiffrierung
+_Spielzeit: 1h 40min, Dauer: 10min_
 
 _Zusammen mit den Gästen wird mit dem Schlüssel «HELDSBERGX» die Nachricht entschlüsselt. Beachten, dass der erste Tastendruck auf der NEMA nur eine Funktionskontrolle ist._
 
-_Die Nachricht lautet: FLUCHT IN DEN SUED SOFORT_
+_Die Nachricht lautet: FLUCHT IN DEN SUED_
 
-**Benz:** «Flucht in den Süd, sofort», was soll das bedeuten? Hat jemand eine Idee?
+**Benz:** «Flucht in den Süd», was soll das bedeuten? Hat jemand eine Idee?
 
 **Schawalder:** Wir haben dem Stollen West manchmal «Süd» gesagt, da die Geschützbatterie in Richtung Süden wirkt. Vielleicht ist das gemeint.
 
@@ -335,12 +347,14 @@ Szene 6: Stollen West
 
 
 ### Suche nach einem Hinweis im Stollen West
+_Spielzeit: 2h, Dauer: 20min_
 
 _Gemeinsam wird der Stollen West abgeschritten, MG2/3, BK2, MM1 und BK1 werden besucht. Schawalder verschwindet in einem unbemerkten Moment und geht zum Bunker Süd gemeinsam mit der Flüchtlingsfamilie._
 
 _Die Gruppe geht zum MG1._
 
 ### Ausgang wird gefunden
+_Spielzeit: 2h 20min, Dauer: 10min_
 
 _Beim MG1 wird der geöffnete Notausgang bemerkt. Falls dies kein Gast bemerkt, dann meldet sich Benz._
 
@@ -359,15 +373,20 @@ _Alle verlassen das Werk durch den Notausgang, gehen um den Bunker und treffen s
 Szene 7: Draussen
 -----------------
 
+
+### Weg zum Bunker Süd
+_Spielzeit: 2h 30min, Dauer: 10min_
+
 _Vor dem Bunker MG1/Beob_
 
 **Benz:** Und jetzt?
 
-**Kehl:** Keine Ahnung, schauen wir mal, ob wir jemanden hier finden. Schawalder müsste hier irgendwo sein.
+**Kehl (flüstert):** Achtung, geht zurück, da ist gleich die deutsche Grenze, keine Ahnung ob die Scharfschützen haben. Schauen wir mal, ob wir jemanden hier finden. Schawalder müsste hier irgendwo sein.
 
 _Alle gehen dem Wald entlang in Richtung Bunker Süd. Die Flüchtlingsfamilie geht im Bunker Süd in den unteren Stock, Schawalder wartet im oberen Stock. Das Licht im Bunker ist eingeschaltet, die Türe geschlossen._
 
 ### Vor dem Bunker Süd
+_Spielzeit: 2h 40min, Dauer: 5min_
 
 _Sie gehen am Bunker Süd vorbei. Jemandem fällt der Bunker, oder das durch die MG-Scharten scheinende Licht, auf. Wenn keinem Gast der Bunker auffällt, dann Benz._
 
@@ -375,7 +394,7 @@ _Sie gehen am Bunker Süd vorbei. Jemandem fällt der Bunker, oder das durch die
 
 **Müller:** Das ist geheim. Auf Landesverrat steht die Todesstrafe. Ich darf nichts sagen.
 
-**Kehl:** Er hat Recht. Aber mir fällt es wie Schuppen von den Augen. Dieser Bunker heisst «Süd». «Flucht in den Süd, sofort» hiess die Chiffre. Wir müssen ihn untersuchen.
+**Kehl:** Er hat Recht. Aber mir fällt es wie Schuppen von den Augen. Dieser Bunker heisst «Süd». «Flucht in den Süd» hiess die Chiffre. Wir müssen ihn untersuchen.
 
 
 
@@ -384,6 +403,7 @@ Szene 8: Bunker Süd
 
 
 ### Eintritt in den Bunker Süd
+_Spielzeit: 2h 45min, Dauer: 5min_
 
 _Alle gehen zum Eingang vor dem Bunker Süd. Kehl poltert an die Stahltüre_
 
@@ -397,10 +417,13 @@ _Alle gehen hinein in den Bunker. Schawalder steht da._
 
 **Kehl:** Benz, Müller, Bunker durchsuchen
 
-_Im unteren Stock brennt Licht, Benz und Müller schicken die Gäste hinunter. Schawalder und Kehl folgen am Schluss auch._
+_Im unteren Stock brennt Licht, Benz und Müller finden die Flüchtlingsfamilie und schicken alle wieder aus dem Bunker raus._
 
 
 ### Auffinden der Flüchtlingsfamilie
+_Spielzeit: 2h 50min, Dauer: 10min_
+
+_Vor dem Bunker Süd_
 
 **Kehl:** Schawalder, was sind das für Leute?!?
 
@@ -431,8 +454,8 @@ _Die Flüchtlingsfamilie ist eingeschüchtert und stottert etwas von Verfolgung,
 
 ### Epilog
 
-_Kehl wendet sich zu den Gästen_
+_Kehl wendet sich zu den Gästen und zieht den Helm aus_
 
 **Kehl:** Was hätten Sie gemacht? Die Aktion vom Gefreiten Schawalder ist eine Straftat, auf der anderen Seite rettet er den Geflüchteten das Leben. Am 29. April 1945, also in rund zwei Wochen, wann dies gespielt hat, betreten französische und marokkanische Truppen bei Bregenz das Vorarlberg. Am 6. Mai 1945 erreichten sie den Arlberg und am 8. Mai kapitulierte die deutsche Wehrmacht. Diese Geschichte war fiktiv, so etwas hat sich am Heldsberg nie abgespielt. Sie steht stellvertretend für die vielen Leute, die in diesen Tagen sich menschlich gezeigt haben, und trotz der eigenen Not, Geflüchteten halfen, obwohl dies widerrechtlich war.
 
-_Vorstellung der Schauspieler und Rückmarsch zum Eingang, wo es eine kleinen Imbiss gibt._
+_Vorstellung der Schauspieler, Verantwortung Bau und Uniformen und Rückmarsch zum Eingang, wo es eine kleinen Imbiss gibt. Bei genügend Zeit: Bunker Süd durch die Gäste besichtigen lassen._
