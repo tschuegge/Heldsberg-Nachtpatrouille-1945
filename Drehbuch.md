@@ -30,34 +30,34 @@ Schauspiel bei Nacht im Festungsmuseum Heldsberg
 
 ### Startpositionen
 
-**Patrouille:** Strasse zum Festungseingang (ausserhalb Sichtbereich)
+**Patrouille:** Strasse zum Festungseingang (ausserhalb des Sichtbereichs)
 
 **Gefreiter Schawalder:** Festungseingang (in der Heldsberg-Jacke, Uniform aus dem 2. Weltkrieg hat er mit dabei)
 
-**Flüchtlingsfamilie:** Ausserhalb Sichtbereich
+**Flüchtlingsfamilie:** Ausserhalb des Sichtbereichs
 
 
 ### Vorbereitung
 
-**Festung:** Eingangstüre und alle Türen im Eingangsbereich geöffnet und alle Lichter gelöscht, Alarmanlage entschärft
+**Festung:** Eingangstüre und alle Türen im Eingangsbereich geöffnet, alle Lichter gelöscht, Alarmanlage entschärft
 
-**Türe zum unteren Festungsteil:** Ist geschlossen
+**Türe zum unteren Festungsteil:** ist geschlossen
 
-**Türe zum Maschinenraum:** Ist geöffnet
+**Türe zum Maschinenraum:** ist geöffnet
 
-**Türe neben Eingangsstollenverteidigung:** Ist halbgeöffnet
+**Türe neben Eingangsstollenverteidigung:** ist halbgeöffnet
 
-**Telefonzentrale:** Ist geschlossen, Kette entfernt, Zettel mit dem Hinweis auf den tödlichen Unfall von Nachrichtensoldat Meier im Speisesaal deponiert
+**Telefonzentrale:** ist geschlossen, Kette entfernt, Zettel mit dem Hinweis auf den tödlichen Unfall von Nachrichtensoldat Meier im Speisesaal deponiert
 
 **MG1:** Notausgang ist geöffnet
 
 **MG2/3:** Leitern zu Notausgang und zum MG gesperrt
 
-**Leichenkeller :** Grab mit Steinen geschlossen, daneben liegt ein Kleiderstapel mit einem Tagebuch drauf. Das Tagebuch beinhaltet belangloser Text und ein paar chiffrierte Nachrichten mit dem Hinweis, dass Schawalder den Code weiss. Ausserdem befindet sich auf der Seite eine skizzierte NEMA. Die chiffrierte Nachricht lautet «FLUCHT IN DEN SUED», chiffriert mit dem Schlüssel «HELDSBERGX» (IIBZF NFAMO WRPBF)
+**Leichenkeller:** Grab mit Steinen geschlossen, daneben liegt ein Kleiderstapel mit einem Tagebuch drauf. Das Tagebuch enthält belanglosen Text und ein paar chiffrierte Nachrichten mit dem Hinweis, dass Schawalder den Code weiss. Ausserdem befindet sich auf der Seite eine skizzierte NEMA. Die chiffrierte Nachricht lautet «FLUCHT IN DEN SUED», chiffriert mit dem Schlüssel «HELDSBERGX» (IIBZF NFAMO WRPBF)
 
-**Speisesaal:** NEMA wird im Speisesaal aufgebaut, kein voreingestellter Tagesschlüssel, Bleistift und Papier liegen bei der NEMA bereit.
+**Speisesaal:** NEMA wird im Speisesaal aufgebaut, kein voreingestellter Tagesschlüssel, Bleistift und Papier liegen bei der NEMA bereit
 
-**Taschenlampen:** LED-Laternen (Feuerhand) geladen an die drei Schauspieler der Patrouille verteilt, die Militärtaschenlampen mit Batterien, 5-6 Reservebatterien mitnehmen. Müller braucht eine zweite Taschenlampe (kann auch eine zivile Lampe oder das Handy sein).
+**Taschenlampen:** LED-Laternen (Feuerhand) geladen an die drei Schauspieler der Patrouille verteilt, die Militärtaschenlampen mit Batterien, 5-6 Reservebatterien mitnehmen, Schawalder braucht eine Taschenlampe für den unteren Stock
 
 
 ### Hinweis
@@ -77,13 +77,13 @@ Begrüssung
 ### Prolog
 _Spielzeit: 0min, Dauer: 5min_
 
-_Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des vorlesen des Prologs zieht er sich Schritt für Schritt zu einem Soldaten im 2. Weltkrieg um._
+_Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des Vorlesens des Prologs wandelt er sich Schritt für Schritt zu einem Soldaten aus dem 2. Weltkrieg um._
 
-**Sprecher:** Willkommen zur Nachtpatrouille 1945 in der Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen dürfen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, jederzeit jemand von der Patrouille ansprechen. 
+**Sprecher:** Willkommen zur Nachtpatrouille 1945 in der Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen sollen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, sprechen Sie jederzeit jemand von der Patrouille an.
 
 **Sprecher (ernste Stimme):** Wir machen jetzt zusammen eine Zeitreise. Eine Zeitreise zurück in eine düstere Zeit. Eine Zeitreise zurück um 81 Jahre. Heute ist Mittwoch, der 14. März 1945. Die Schweiz befindet sich als kleine, neutrale Insel mitten eines vom Krieg gezeichneten und ehemals von den Nationalsozialisten kontrollierten Europa. Die Bevölkerung hat Angst, die Armee ist angespannt. Seit Monaten rücken die Alliierten in Richtung Berlin vor. Frankreich ist durchquert und die Truppen stehen am Rhein, bei Köln, Bonn und Remagen. Die Brücke von Remagen ist von den Alliierten eingenommen und seit einer Woche überqueren alliierte Regimente über diese Brücke den Rhein. Sie wissen nicht, dass die durch Sprengversuche und Artilleriebeschuss beschädigte Brücke in drei Tagen einstürzen wird und 32 amerikanische Pioniere getötet und 63 verletzt werden.
 
-**Sprecher (nach einer kurzen Pause):** Seit zwei Tagen herrscht beim Kommando der Grenzbrigade 8 Funkstille mit dem Artilleriewerk Heldsberg. Keiner weiss, ob es nur ein technisches Problem ist oder ob mehr dahintersteckt. Es wird eine Gruppe von drei Männern losgeschickt um zu untersuchen, was da los ist. Sie werden etwa um 17:40 Uhr hier eintreffen. Das ist schon bald. Gleichzeitig stossen jenseits des Rheins französische und marokkanische Truppen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
+**Sprecher (nach einer kurzen Pause):** Seit zwei Tagen herrscht beim Kommando der Grenzbrigade 8 Funkstille mit dem Artilleriewerk Heldsberg. Keiner weiss, ob es nur ein technisches Problem ist oder ob mehr dahintersteckt. Es wird eine Gruppe von drei Männern losgeschickt, um zu untersuchen, was da los ist. Sie werden etwa um 17:40 Uhr hier eintreffen. Das ist schon bald. Gleichzeitig stossen jenseits des Rheins französische und marokkanische Truppen unbeirrt in Richtung Bregenz und Vorarlberg vor. Nur noch wenige Wochen, dann werden sie hier sein. Die Lage ist angespannt.
 
 _Der Sprecher liest den Gästen den Prolog vor. Danach verschwindet der Sprecher wortlos in der Festung._
 
@@ -238,7 +238,7 @@ _Falls kein Gast das Tagebuch bemerkt, findet es Benz._
 
 **Kehl:** Vorlesen!
 
-_Benz liest vor. Aber die Nachricht versteht man nicht. Den Hinweis darauf, dass «Schawalder den Code kennt» muss deutlich vorgelesen werden. Nach einigem Hin und Her geht die Truppe zurück. Die Truppe bemerkt die veränderte Situation._
+_Benz oder Gast liest vor. Aber die Nachricht versteht man nicht. Den Hinweis darauf, dass «Schawalder den Code kennt» muss deutlich vorgelesen werden. Nach einigem Hin und Her geht die Truppe zurück. Die Truppe bemerkt die veränderte Situation._
 
 **Benz oder Müller:** War die Türe da vorher schon geöffnet? Und vor allem ist da jetzt Licht?
 
@@ -285,7 +285,7 @@ _Spielzeit: 1h 5min, Dauer: 20min_
 
 _Schawalder sitzt verängstigt mit einer Taschenlampe da._
 
-**Schawalder:** Bitte macht mir nicht, ich sage euch alles was ich weiss: H… E… L… D… S… B… E… R… G… X…
+**Schawalder:** Bitte tut mir nichts, ich sage euch alles was ich weiss: H… E… L… D… S… B… E… R… G… X…
 
 **Kehl:** Sind Sie Schawalder?
 
@@ -316,7 +316,7 @@ Szene 5: Speisesaal
 ### Ankunft im Speisesaal
 _Spielzeit: 1h 25min, Dauer: 15min_
 
-_Es wird auf direktem Weg in den Speisesaal gegangen. Das Licht auf der Treppe wird brennen gelassen. Im Speisesaal angekommen werden die Gäste an einen Tisch gesetzt und ein Getränk nach Wahl offeriert. Sobald alle ein Getränk haben, werden die gefundenen Gegenstände werden auf den Tisch gelegt._
+_Es wird auf direktem Weg in den Speisesaal gegangen. Das Licht auf der Treppe wird brennen gelassen. Im Speisesaal angekommen werden die Gäste an einen Tisch gesetzt und ein Getränk nach Wahl offeriert. Sobald alle ein Getränk haben, werden die gefundenen Gegenstände auf den Tisch gelegt._
 
 
 ### Lösen der Rätsels
@@ -358,7 +358,7 @@ _Spielzeit: 2h 20min, Dauer: 10min_
 
 _Beim MG1 wird der geöffnete Notausgang bemerkt. Falls dies kein Gast bemerkt, dann meldet sich Benz._
 
-**Benz:** Wachtmeister, schauen Sie mal, da gibt es einen Weg nach draussen.
+**Benz:** Wachtmeister, schau mal, da gibt es einen Weg nach draussen.
 
 **Kehl:** Vielleicht finden wir da draussen die Truppe. Schawalder, Sie zuerst, los! Die Inspektion vom Brigadekommandanten kommt näher und wir haben immer noch keine Antworten. Schawalder? Wo ist Schawalder?
 
