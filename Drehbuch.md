@@ -360,7 +360,7 @@ _Beim MG1 wird der geöffnete Notausgang bemerkt. Falls dies kein Gast bemerkt, 
 
 **Benz:** Wachtmeister, schau mal, da gibt es einen Weg nach draussen.
 
-**Kehl:** Vielleicht finden wir da draussen die Truppe. Schawalder, Sie zuerst, los! Die Inspektion vom Brigadekommandanten kommt näher und wir haben immer noch keine Antworten. Schawalder? Wo ist Schawalder?
+**Kehl:** Vielleicht finden wir da draussen die Truppe. Schawalder, Sie zuerst, los! Schawalder? Wo ist Schawalder?
 
 **Benz:** Er ist verschwunden.
 
