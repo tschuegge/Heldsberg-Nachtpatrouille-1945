@@ -1,7 +1,8 @@
 Drehbuch Nachtpatrouille 1945
 =============================
 
-Schauspiel bei Nacht im Festungsmuseum Heldsberg
+Schauspiel bei Nacht im Festungsmuseum Heldsberg  
+Stand: 5. Oktober 2026
 
 
 ### Zeit und Ort
@@ -79,7 +80,7 @@ _Spielzeit: 0min, Dauer: 5min_
 
 _Der Sprecher nimmt in der Heldsberg-Jacke die Gäste vor dem Eingang in Empfang und verteilt die Taschenlampen. Während des Vorlesens des Prologs wandelt er sich Schritt für Schritt zu einem Soldaten aus dem 2. Weltkrieg um._
 
-**Sprecher:** Willkommen zur Nachtpatrouille 1945 in der Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Falls die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen sollen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Generell, falls etwas ist, sprechen Sie jederzeit jemand von der Patrouille an.
+**Sprecher:** Willkommen zur Nachtpatrouille 1945 in der Festung Heldsberg. Sie haben von uns eine Taschenlampe erhalten, da in der Festung kein Licht brennt. Bitte seien Sie vorsichtig, dunkel ist hier wirklich dunkel. Es ist genügend Zeit für alles vorhanden, es gibt keinen Grund zur Eile. Es wird nie jemand erschreckt, aber falls Sie sich unwohl fühlen, sprechen Sie jederzeit jemanden von der Patrouille an. Wenn die Batterie einer Taschenlampe nachlässt, können Sie jederzeit eine Ersatzbatterie bei der Patrouille holen. Verschlossene Türen sollen geöffnet werden, aber Absperrungen dürfen nicht überwunden werden. Sie können das Schauspiel bedenkenlos geniessen: Alle im Schauspiel vorkommenden Waffen sind ungeladen und die Laternen sind elektrisch und ohne Petroleum betrieben. Unsere Gruppe wird ständig von zusätzlichen Personen begleitet, falls jemand die Tour abbrechen möchte. Generell, falls etwas ist, sprechen Sie jederzeit jemand von der Patrouille an.
 
 **Sprecher (ernste Stimme):** Wir machen jetzt zusammen eine Zeitreise. Eine Zeitreise zurück in eine düstere Zeit. Eine Zeitreise zurück um 81 Jahre. Heute ist Mittwoch, der 14. März 1945. Die Schweiz befindet sich als kleine, neutrale Insel mitten eines vom Krieg gezeichneten und ehemals von den Nationalsozialisten kontrollierten Europa. Die Bevölkerung hat Angst, die Armee ist angespannt. Seit Monaten rücken die Alliierten in Richtung Berlin vor. Frankreich ist durchquert und die Truppen stehen am Rhein, bei Köln, Bonn und Remagen. Die Brücke von Remagen ist von den Alliierten eingenommen und seit einer Woche überqueren alliierte Regimente über diese Brücke den Rhein. Sie wissen nicht, dass die durch Sprengversuche und Artilleriebeschuss beschädigte Brücke in drei Tagen einstürzen wird und 32 amerikanische Pioniere getötet und 63 verletzt werden.
 
@@ -340,6 +341,7 @@ _Die Nachricht lautet: FLUCHT IN DEN SUED_
 
 **Kehl:** Finden wir es heraus. Austrinken, los gehts!
 
+_Kehl übergibt den Rucksack unbemerkt an einen Begleiter._
 
 
 Szene 6: Stollen West
@@ -347,11 +349,50 @@ Szene 6: Stollen West
 
 
 ### Suche nach einem Hinweis im Stollen West
-_Spielzeit: 2h, Dauer: 20min_
+_Spielzeit: 2h, Dauer: 5min_
 
-_Gemeinsam wird der Stollen West abgeschritten, MG2/3, BK2, MM1 und BK1 werden besucht. Schawalder verschwindet in einem unbemerkten Moment und geht zum Bunker Süd gemeinsam mit der Flüchtlingsfamilie._
+_Gemeinsam wird der Stollen West abgeschritten. Am MG2/3 wird vorbei gegangen und die Gruppe geht bis zur Verzweigung BK2._
+
+**Kehl:** Gruppe Halt! Benz, Müller, ich habe meinen Rucksack bei der Verpflegung liegen gelassen. Ich gehe ihn rasch holen. Euer Auftrag: Erkundung dieses Stollens und anschliessende Meldung an mich.
+
+
+### Schabernack an der BK2
+_Spielzeit: 2h 5min, Dauer: 15min_
+
+_Kehl entfernt sich von der Truppe und geht seinen Rucksack holen. In dieser Zeit gehen Benz und Müller zur BK2_
+
+**Benz:** Müller, du bist doch Kanonier, zeig doch mal, wie das Geschütz funktioniert.
+
+**Müller:** Klar, das kann ich dir zeigen. Eine Manipulierpatrone um zu üben liegt ja hier.
+
+_Benz und Müller beginnen das Geschütz zu laden. Kurz vor dem vermeintlichen Abfeuern kommt Kehl zurück und geht dazwischen._
+
+**Kehl:** Seid ihr von allen guten Geistern verlassen, was macht ihr hier?!?!?
+
+**Müller:** Ähm, ja gar nichts, eigentlich...
+
+**Kehl (bestimmt):** Alle sofort vom Geschütz zurücktreten!
+
+_Benz und Müller gehen einen Schritt zurück._
+
+**Müller (mit militärischer Anmeldung):** Wachtmeister, Soldat Müller.
+
+**Kehl:** Ja, Soldat Müller?
+
+**Müller:** Es handelt sich nicht um ein scharfes Geschoss, es nur ein ManiPat. Es hätte sich kein Schuss gelöst. Ich wollte Gefreiter Benz nur zeigen, wie das Geschütz geladen wird.
+
+**Kehl:** Verstanden! Trotzdem war das nicht euer Auftrag. Müller, Benz: Achtung!
+
+_Benz und Müller gehen in die Achtung-Stellung._
+
+**Kehl:** Sie entladen jetzt sofort die Befestigungskanone. Ausführen Marsch!
+
+_Benz und Müller entladen die Befestungskanone._
+
+**Kehl:** Ich habe vorhin etwas komisches gehört aus dem Stollen. Wir suchen ihn weiter ab. Ausserdem scheint es ein rund 30m hoher Schacht mit Treppe und ein Notausgang, 2m lang und 1.2m mal 1.2m gross zu geben. Falls jemand der Truppe nicht in der Lage ist und zu folgen, dann kann hier stehen geblieben werden und ihnen wird geholfen. Alle anderen, mir nach, los!
 
 _Die Gruppe geht zum MG1._
+
 
 ### Ausgang wird gefunden
 _Spielzeit: 2h 20min, Dauer: 10min_
@@ -384,6 +425,7 @@ _Vor dem Bunker MG1/Beob_
 **Kehl (flüstert):** Achtung, geht zurück, da ist gleich die deutsche Grenze, keine Ahnung ob die Scharfschützen haben. Schauen wir mal, ob wir jemanden hier finden. Schawalder müsste hier irgendwo sein.
 
 _Alle gehen dem Wald entlang in Richtung Bunker Süd. Die Flüchtlingsfamilie geht im Bunker Süd in den unteren Stock, Schawalder wartet im oberen Stock. Das Licht im Bunker ist eingeschaltet, die Türe geschlossen._
+
 
 ### Vor dem Bunker Süd
 _Spielzeit: 2h 40min, Dauer: 5min_
