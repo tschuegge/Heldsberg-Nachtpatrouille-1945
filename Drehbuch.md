@@ -2,7 +2,7 @@ Drehbuch Nachtpatrouille 1945
 =============================
 
 Schauspiel bei Nacht im Festungsmuseum Heldsberg  
-Stand: 5. Oktober 2026
+Stand: 7. Oktober 2026
 
 
 ### Zeit und Ort
@@ -52,7 +52,7 @@ Stand: 5. Oktober 2026
 
 **MG1:** Notausgang ist geöffnet
 
-**MG2/3:** Leitern zu Notausgang und zum MG gesperrt
+**MG2/3:** Zugang zum Stollen sperren
 
 **Leichenkeller:** Grab mit Steinen geschlossen, daneben liegt ein Kleiderstapel mit einem Tagebuch drauf. Das Tagebuch enthält belanglosen Text und ein paar chiffrierte Nachrichten mit dem Hinweis, dass Schawalder den Code weiss. Ausserdem befindet sich auf der Seite eine skizzierte NEMA. Die chiffrierte Nachricht lautet «FLUCHT IN DEN SUED», chiffriert mit dem Schlüssel «HELDSBERGX» (IIBZF NFAMO WRPBF)
 
@@ -500,4 +500,4 @@ _Kehl wendet sich zu den Gästen und zieht den Helm aus_
 
 **Kehl:** Was hätten Sie gemacht? Die Aktion vom Gefreiten Schawalder ist eine Straftat, auf der anderen Seite rettet er den Geflüchteten das Leben. Am 29. April 1945, also in rund zwei Wochen, wann dies gespielt hat, betreten französische und marokkanische Truppen bei Bregenz das Vorarlberg. Am 6. Mai 1945 erreichten sie den Arlberg und am 8. Mai kapitulierte die deutsche Wehrmacht. Diese Geschichte war fiktiv, so etwas hat sich am Heldsberg nie abgespielt. Sie steht stellvertretend für die vielen Leute, die in diesen Tagen sich menschlich gezeigt haben, und trotz der eigenen Not, Geflüchteten halfen, obwohl dies widerrechtlich war.
 
-_Vorstellung der Schauspieler, Verantwortung Bau und Uniformen und Rückmarsch zum Eingang, wo es eine kleinen Imbiss gibt. Bei genügend Zeit: Bunker Süd durch die Gäste besichtigen lassen._
+_Vorstellung der Schauspieler, Verantwortung Bau und Uniformen und Rückmarsch zum Eingang, wo es eine kleinen Imbiss gibt. Auf dem Weg zum Imbiss werden MG2/3 und MM1 den interessierten Gästen zusätzlich gezeigt._
